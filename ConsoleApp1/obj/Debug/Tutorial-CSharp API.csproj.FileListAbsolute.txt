@@ -1,0 +1,6 @@
+E:\Unity Files\Git\C#常用API\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Unity Files\Git\C#常用API\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Unity Files\Git\C#常用API\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Unity Files\Git\C#常用API\ConsoleApp1\obj\Debug\Tutorial-CSharp API.csproj.CoreCompileInputs.cache
+E:\Unity Files\Git\C#常用API\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Unity Files\Git\C#常用API\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
